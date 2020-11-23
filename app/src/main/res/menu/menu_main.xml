@@ -17,7 +17,7 @@
 
             <item android:id="@+id/menu_changes"
                 android:title="@string/menu_qosymshamen_bolisu"
-                android:icon="@drawable/shape__1_"
+                android:icon="@drawable/icon_share"
                 app:showAsAction="never"/>
 
             <item android:id="@+id/menu_changes_one"
